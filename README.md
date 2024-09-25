@@ -46,3 +46,5 @@ The combination of Split Bregman Iteration and ATV was successfully replicated f
 - Jiaqi Zhang
 - Lu Cao
 - Beilin Ye
+
+**Other References for this study is included at the end of the file "Final_Report_ece602.pdf"**
