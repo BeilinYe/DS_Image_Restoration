@@ -41,3 +41,8 @@ The combination of Split Bregman Iteration and ATV was successfully replicated f
 - Image restoration techniques: Denoising, Inpainting
 - Optimization techniques: Split Bregman Iteration
 - Mathematical models: Anisotropic and Isotropic Total Variation
+
+## Group Members
+- Jiaqi Zhang
+- Lu Cao
+- Beilin Ye
