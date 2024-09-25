@@ -1,5 +1,4 @@
 # AI-driven Image Restoration Using Optimization Techniques
-## Split Bregmanized Anisotropic Total Variation (SB-ATV) for Image Denoising and Inpainting
 
 ## Introduction
 This project builds on the "Split Bregmanized Anisotropic Total Variation Model for Image Deblurring" by Huasong Chen et al., extending the research into the domains of denoising and inpainting. The main objective was to evaluate and replicate the performance of the Split Bregman Iteration technique combined with Anisotropic Total Variation (ATV) for denoising noisy images and explore its applicability for inpainting tasks.
